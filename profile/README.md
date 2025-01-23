@@ -58,7 +58,3 @@ Stay updated with the latest news, events, and technical discussions by followin
 - [LinkedIn](https://www.linkedin.com/company/isabe/posts/?feedView=all)
 
 Join us on this journey to shape the future of air-breathing propulsion systems! 🚀
-
----
-
-This README introduces ISABE in a professional, informative, and engaging way, inviting collaboration and emphasizing the organization's mission and community.
