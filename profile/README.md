@@ -1,7 +1,3 @@
-Here’s an attractive and professional README for the organization’s GitHub account:
-
----
-
 # ISABE - International Society for Air Breathing Engines
 
 Welcome to the official GitHub repository for the **International Society for Air Breathing Engines (ISABE)**. 
